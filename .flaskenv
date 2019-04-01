@@ -1,0 +1,2 @@
+FLASK_APP=mybluelog
+FLASK_ENV=development
